@@ -52,3 +52,9 @@ prompt
 server.log
 # Skills directory
 /skills/
+
+# System scripts & repos
+/.zscripts/
+/openclaude-repo/
+/download/
+/worklog.md
